@@ -1,0 +1,6 @@
+connection_str: redis://<username>:<password>@redis-12503.c135.eu-central-1-1.ec2.cloud.redislabs.com:12503
+mongodb+srv://<username>:<password>@redis.zfooibf.mongodb.net/?retryWrites=true&w=majority
+
+qZnLsRcsFk225IRJredis
+
+FqzMjcCwllhgGG9hms
